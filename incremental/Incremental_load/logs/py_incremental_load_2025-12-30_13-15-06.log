@@ -1,0 +1,9 @@
+2025-12-30 13:15:06,202 - INFO - py_incremental_load started at 2025-12-30 13:15:06.202971
+2025-12-30 13:15:06,266 - INFO - Stage table truncated
+2025-12-30 13:15:06,271 - INFO - Incremental data loaded into stage (0 rows)
+2025-12-30 13:15:06,275 - INFO - Target table updated (0 rows)
+2025-12-30 13:15:06,275 - INFO - New records inserted into target (0 rows)
+2025-12-30 13:15:06,275 - INFO - Successfully loaded into TARGET table
+2025-12-30 13:15:06,283 - INFO - Control table updated after successful TARGET load
+2025-12-30 13:15:06,283 - INFO - py_incremental_load ended at 2025-12-30 13:15:06.283488
+2025-12-30 13:15:06,283 - INFO - -------------------------------------------------

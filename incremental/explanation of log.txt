@@ -1,0 +1,6 @@
+Level-Meaning	- Logged?
+DEBUG-Detailed developer info	
+INFO	  Normal execution messages	
+WARNING	Something unusual	
+ERROR	Failure occurred	
+CRITICAL	System crash	

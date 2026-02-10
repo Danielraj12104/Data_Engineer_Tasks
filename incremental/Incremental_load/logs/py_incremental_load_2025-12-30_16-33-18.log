@@ -1,0 +1,17 @@
+2025-12-30 16:33:18,438 - INFO - py_incremental_load STARTED AT 2025-12-30 16:33:18.438780
+2025-12-30 16:33:18,516 - INFO - Database connection established
+2025-12-30 16:33:18,523 - INFO - STEP 1: Starting stage table truncation
+2025-12-30 16:33:18,572 - INFO - STEP 1: Stage table truncated
+2025-12-30 16:33:18,572 - INFO - STEP 2: Starting incremental data identification and load
+2025-12-30 16:33:18,580 - INFO - STEP 2: Incremental rows loaded into stage = 2
+2025-12-30 16:33:18,580 - INFO - STEP 3: Starting target update operation
+2025-12-30 16:33:18,588 - INFO - STEP 3: Target updated (0 rows)
+2025-12-30 16:33:18,588 - INFO - STEP 4: Starting target insert operation
+2025-12-30 16:33:18,588 - INFO - STEP 4: Target insert completed (0 rows)
+2025-12-30 16:33:18,588 - INFO - STEP 5: Verifying target load status
+2025-12-30 16:33:18,588 - INFO - STEP 5 SKIPPED: TARGET not modified
+2025-12-30 16:33:18,588 - INFO - STEP 6: Starting control table update
+2025-12-30 16:33:18,588 - INFO - STEP 6 SKIPPED: CONTROL table not updated
+2025-12-30 16:33:18,613 - INFO - STEP 7: Job execution completed successfully
+2025-12-30 16:33:18,613 - INFO - py_incremental_load ENDED AT 2025-12-30 16:33:18.613856
+2025-12-30 16:33:18,613 - INFO - -------------------------------------------------
