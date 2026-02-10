@@ -1,0 +1,20 @@
+2026-01-07 16:56:51,836 - INFO - Daniel_IncScd2Impln STARTED AT 2026-01-07 16:56:51.836422
+2026-01-07 16:56:52,019 - INFO - package: mysql.connector.plugins
+2026-01-07 16:56:52,019 - INFO - plugin_name: caching_sha2_password
+2026-01-07 16:56:52,019 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-01-07 16:56:52,022 - INFO - Database connection established
+2026-01-07 16:56:52,022 - INFO - STEP 1: Starting stage table truncation
+2026-01-07 16:56:52,073 - INFO - STEP 1: Stage table truncated
+2026-01-07 16:56:52,074 - INFO - STEP 2: Starting incremental data identification and load
+2026-01-07 16:56:52,080 - INFO - STEP 2: Incremental load completed – 1 new/updated record(s) identified and loaded into STAGE
+2026-01-07 16:56:52,080 - INFO - STEP 3: Starting SCD2 close operation
+2026-01-07 16:56:52,084 - INFO - STEP 3: Old SCD2 records closed
+2026-01-07 16:56:52,084 - INFO - STEP 4: Starting SCD2 insert operation
+2026-01-07 16:56:52,088 - INFO - STEP 4: New SCD2 records inserted
+2026-01-07 16:56:52,088 - INFO - STEP 5: Verifying target load status
+2026-01-07 16:56:52,089 - INFO - STEP 5: TARGET load successful
+2026-01-07 16:56:52,089 - INFO - STEP 6: Starting control table update
+2026-01-07 16:56:52,092 - INFO - STEP 6: CONTROL table updated
+2026-01-07 16:56:52,092 - INFO - STEP 7: Job execution completed successfully
+2026-01-07 16:56:52,102 - INFO - Daniel_IncScd2Impln ENDED AT 2026-01-07 16:56:52.102914
+2026-01-07 16:56:52,103 - INFO - -------------------------------------------------

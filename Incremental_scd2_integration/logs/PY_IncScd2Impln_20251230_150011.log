@@ -1,0 +1,11 @@
+2025-12-30 15:00:11,170 - INFO - STEP 0: Job started
+2025-12-30 15:00:11,214 - INFO - Database connection established
+2025-12-30 15:00:11,249 - INFO - STEP 1: Stage table truncated
+2025-12-30 15:00:11,251 - INFO - STEP 2: Incremental rows loaded into stage = 0
+2025-12-30 15:00:11,251 - INFO - STEP 3 SKIPPED: No incremental data in STAGE
+2025-12-30 15:00:11,252 - INFO - STEP 4 SKIPPED: No new or changed records
+2025-12-30 15:00:11,252 - INFO - STEP 5 SKIPPED: TARGET not modified
+2025-12-30 15:00:11,252 - INFO - STEP 6 SKIPPED: CONTROL table not updated
+2025-12-30 15:00:11,255 - INFO - STEP 7: Job completed successfully
+2025-12-30 15:00:11,255 - INFO - Database connection closed
+2025-12-30 15:00:11,255 - INFO - -------------------------------------------------

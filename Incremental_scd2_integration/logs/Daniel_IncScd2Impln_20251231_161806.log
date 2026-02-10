@@ -1,0 +1,17 @@
+2025-12-31 16:18:06,662 - INFO - Daniel_IncScd2Impln STARTED AT 2025-12-31 16:18:06.662361
+2025-12-31 16:18:06,894 - INFO - Database connection established
+2025-12-31 16:18:06,894 - INFO - STEP 1: Starting stage table truncation
+2025-12-31 16:18:06,947 - INFO - STEP 1: Stage table truncated
+2025-12-31 16:18:06,947 - INFO - STEP 2: Starting incremental data identification and load
+2025-12-31 16:18:06,947 - INFO - STEP 2: Incremental load completed – 1 new/updated record(s) identified and loaded into STAGE
+2025-12-31 16:18:06,947 - INFO - STEP 3: Starting SCD2 close operation
+2025-12-31 16:18:06,947 - INFO - STEP 3: Old SCD2 records closed
+2025-12-31 16:18:06,947 - INFO - STEP 4: Starting SCD2 insert operation
+2025-12-31 16:18:06,963 - INFO - STEP 4: New SCD2 records inserted
+2025-12-31 16:18:06,963 - INFO - STEP 5: Verifying target load status
+2025-12-31 16:18:06,963 - INFO - STEP 5: TARGET load successful
+2025-12-31 16:18:06,963 - INFO - STEP 6: Starting control table update
+2025-12-31 16:18:06,963 - INFO - STEP 6: CONTROL table updated
+2025-12-31 16:18:06,963 - INFO - STEP 7: Job execution completed successfully
+2025-12-31 16:18:06,978 - INFO - Daniel_IncScd2Impln ENDED AT 2025-12-31 16:18:06.978823
+2025-12-31 16:18:06,978 - INFO - -------------------------------------------------

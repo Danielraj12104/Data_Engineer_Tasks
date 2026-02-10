@@ -1,0 +1,5 @@
+2025-12-30 14:55:33,352 - INFO - PY_IncScd2Impln STARTED AT 2025-12-30 14:55:33.352932
+2025-12-30 14:55:33,385 - INFO - Stage table truncated
+2025-12-30 14:55:33,387 - INFO - Incremental rows loaded into stage: 0
+2025-12-30 14:55:33,391 - INFO - PY_IncScd2Impln ENDED AT 2025-12-30 14:55:33.391878
+2025-12-30 14:55:33,391 - INFO - -------------------------------------------------

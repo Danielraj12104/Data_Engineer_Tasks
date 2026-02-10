@@ -1,0 +1,9 @@
+2025-12-30 13:50:23,465 - INFO - FN_IncScd2Impln STARTED AT 2025-12-30 13:50:23.465358
+2025-12-30 13:50:23,522 - INFO - Stage table truncated
+2025-12-30 13:50:23,530 - INFO - Incremental rows loaded into stage: 0
+2025-12-30 13:50:23,538 - INFO - Old SCD2 records closed
+2025-12-30 13:50:23,538 - INFO - New SCD2 records inserted
+2025-12-30 13:50:23,538 - INFO - TARGET SCD2 LOAD SUCCESSFUL
+2025-12-30 13:50:23,546 - INFO - Control table updated
+2025-12-30 13:50:23,554 - INFO - FN_IncScd2Impln ENDED AT 2025-12-30 13:50:23.554049
+2025-12-30 13:50:23,554 - INFO - -------------------------------------------------

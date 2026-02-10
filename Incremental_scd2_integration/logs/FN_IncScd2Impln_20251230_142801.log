@@ -1,0 +1,5 @@
+2025-12-30 14:28:01,083 - INFO - FN_IncScd2Impln STARTED AT 2025-12-30 14:28:01.083236
+2025-12-30 14:28:01,103 - INFO - Stage table truncated
+2025-12-30 14:28:01,103 - INFO - Incremental rows loaded into stage: 0
+2025-12-30 14:28:01,103 - INFO - FN_IncScd2Impln ENDED AT 2025-12-30 14:28:01.103339
+2025-12-30 14:28:01,103 - INFO - -------------------------------------------------

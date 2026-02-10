@@ -1,0 +1,17 @@
+2025-12-30 15:46:42,926 - INFO - PY_IncScd2Impln STARTED AT 2025-12-30 15:46:42.926291
+2025-12-30 15:46:43,065 - INFO - Database connection established
+2025-12-30 15:46:43,065 - INFO - STEP 1: Starting stage table truncation
+2025-12-30 15:46:43,111 - INFO - STEP 1: Stage table truncated
+2025-12-30 15:46:43,111 - INFO - STEP 2: Starting incremental data identification and load
+2025-12-30 15:46:43,111 - INFO - STEP 2: Incremental rows loaded into stage = 0
+2025-12-30 15:46:43,111 - INFO - STEP 3: Starting SCD2 close operation
+2025-12-30 15:46:43,111 - INFO - STEP 3 SKIPPED: No incremental data in STAGE
+2025-12-30 15:46:43,119 - INFO - STEP 4: Starting SCD2 insert operation
+2025-12-30 15:46:43,119 - INFO - STEP 4 SKIPPED: No new or changed records
+2025-12-30 15:46:43,119 - INFO - STEP 5: Verifying target load status
+2025-12-30 15:46:43,119 - INFO - STEP 5 SKIPPED: TARGET not modified
+2025-12-30 15:46:43,119 - INFO - STEP 6: Starting control table update
+2025-12-30 15:46:43,119 - INFO - STEP 6 SKIPPED: CONTROL table not updated
+2025-12-30 15:46:43,119 - INFO - STEP 7: Job execution completed successfully
+2025-12-30 15:46:43,129 - INFO - PY_IncScd2Impln ENDED AT 2025-12-30 15:46:43.129950
+2025-12-30 15:46:43,129 - INFO - -------------------------------------------------

@@ -1,0 +1,12 @@
+2025-12-30 15:07:12,192 - INFO - PY_IncScd2Impln STARTED AT 2025-12-30 15:07:12.192271
+2025-12-30 15:07:12,241 - INFO - Database connection established
+2025-12-30 15:07:12,271 - INFO - STEP 1: Stage table truncated
+2025-12-30 15:07:12,274 - INFO - STEP 2: Incremental rows loaded into stage = 1
+2025-12-30 15:07:12,274 - INFO - STEP 3: Closing old SCD2 records
+2025-12-30 15:07:12,275 - INFO - STEP 3: Old SCD2 records closed
+2025-12-30 15:07:12,275 - INFO - STEP 4: Inserting new SCD2 records
+2025-12-30 15:07:12,278 - INFO - STEP 4: New SCD2 records inserted
+2025-12-30 15:07:12,278 - INFO - STEP 5: TARGET load successful
+2025-12-30 15:07:12,281 - INFO - STEP 6: CONTROL table updated
+2025-12-30 15:07:12,288 - INFO - PY_IncScd2Impln ENDED AT 2025-12-30 15:07:12.288285
+2025-12-30 15:07:12,289 - INFO - -------------------------------------------------
