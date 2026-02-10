@@ -1,0 +1,68 @@
+2025-12-29 14:48:40 [SUCCESS] Connected to MySQL
+2025-12-29 14:48:40 [SUCCESS] Database created and selected
+2025-12-29 14:48:40 [SUCCESS] Old tables dropped
+2025-12-29 14:48:40 [SUCCESS] CUST_SRC table created
+2025-12-29 14:48:40 [SUCCESS] SCD2_CUST_DM table created
+2025-12-29 14:48:40 [SUCCESS] Source data inserted
+2025-12-29 14:48:40 [SUCCESS] Initial SCD2 load completed
+2025-12-29 14:48:40 [SUCCESS] Source change simulated
+2025-12-29 14:48:40 [SUCCESS] Old SCD2 record closed
+2025-12-29 14:48:40 [SUCCESS] New SCD2 version inserted
+2025-12-29 14:48:40 [SUCCESS] Final SCD2 result fetched
+2025-12-29 14:48:40 [SUCCESS] SCD2 automation completed successfully
+2025-12-29 14:48:40 [SUCCESS] Connection closed
+2025-12-29 14:48:40 [SUCCESS] -------------------------
+2025-12-29 14:48:43 [SUCCESS] Connected to MySQL
+2025-12-29 14:48:43 [SUCCESS] Database created and selected
+2025-12-29 14:48:43 [SUCCESS] Old tables dropped
+2025-12-29 14:48:43 [SUCCESS] CUST_SRC table created
+2025-12-29 14:48:43 [SUCCESS] SCD2_CUST_DM table created
+2025-12-29 14:48:43 [SUCCESS] Source data inserted
+2025-12-29 14:48:43 [SUCCESS] Initial SCD2 load completed
+2025-12-29 14:48:43 [SUCCESS] Source change simulated
+2025-12-29 14:48:43 [SUCCESS] Old SCD2 record closed
+2025-12-29 14:48:43 [SUCCESS] New SCD2 version inserted
+2025-12-29 14:48:43 [SUCCESS] Final SCD2 result fetched
+2025-12-29 14:48:43 [SUCCESS] SCD2 automation completed successfully
+2025-12-29 14:48:43 [SUCCESS] Connection closed
+2025-12-29 14:48:43 [SUCCESS] -------------------------
+2025-12-29 14:48:47 [SUCCESS] Connected to MySQL
+2025-12-29 14:48:47 [SUCCESS] Database created and selected
+2025-12-29 14:48:47 [SUCCESS] Old tables dropped
+2025-12-29 14:48:47 [SUCCESS] CUST_SRC table created
+2025-12-29 14:48:47 [SUCCESS] SCD2_CUST_DM table created
+2025-12-29 14:48:47 [SUCCESS] Source data inserted
+2025-12-29 14:48:47 [SUCCESS] Initial SCD2 load completed
+2025-12-29 14:48:47 [SUCCESS] Source change simulated
+2025-12-29 14:48:47 [SUCCESS] Old SCD2 record closed
+2025-12-29 14:48:47 [SUCCESS] New SCD2 version inserted
+2025-12-29 14:48:47 [SUCCESS] Final SCD2 result fetched
+2025-12-29 14:48:47 [SUCCESS] SCD2 automation completed successfully
+2025-12-29 14:48:47 [SUCCESS] Connection closed
+2025-12-29 14:48:47 [SUCCESS] -------------------------
+2025-12-29 14:52:48 [SUCCESS] Connected to MySQL
+2025-12-29 14:52:48 [SUCCESS] Database created and selected
+2025-12-29 14:52:48 [SUCCESS] Old tables dropped
+2025-12-29 14:52:48 [SUCCESS] CUST_SRC table created
+2025-12-29 14:52:48 [SUCCESS] SCD2_CUST_DM table created
+2025-12-29 14:52:48 [SUCCESS] Source data inserted
+2025-12-29 14:52:48 [SUCCESS] Initial SCD2 load completed
+2025-12-29 14:52:48 [SUCCESS] Source change simulated
+2025-12-29 14:52:48 [SUCCESS] Old SCD2 record closed
+2025-12-29 14:52:48 [SUCCESS] New SCD2 version inserted
+2025-12-29 14:52:48 [SUCCESS] Final SCD2 table fetched
+2025-12-29 14:52:48 [SUCCESS] SCD2 automation completed successfully
+2025-12-29 14:52:48 [SUCCESS] Connection closed
+2025-12-29 14:52:56 [SUCCESS] Connected to MySQL
+2025-12-29 14:52:56 [SUCCESS] Database created and selected
+2025-12-29 14:52:56 [SUCCESS] Old tables dropped
+2025-12-29 14:52:56 [SUCCESS] CUST_SRC table created
+2025-12-29 14:52:56 [SUCCESS] SCD2_CUST_DM table created
+2025-12-29 14:52:56 [SUCCESS] Source data inserted
+2025-12-29 14:52:56 [SUCCESS] Initial SCD2 load completed
+2025-12-29 14:52:56 [SUCCESS] Source change simulated
+2025-12-29 14:52:56 [SUCCESS] Old SCD2 record closed
+2025-12-29 14:52:56 [SUCCESS] New SCD2 version inserted
+2025-12-29 14:52:56 [SUCCESS] Final SCD2 table fetched
+2025-12-29 14:52:56 [SUCCESS] SCD2 automation completed successfully
+2025-12-29 14:52:56 [SUCCESS] Connection closed
